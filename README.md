@@ -1,6 +1,6 @@
 # podman-pandoc
 
-A demonstration of container hardening process. Check the related article at hardenedlinux.org for the instructions.
+A demonstration of container hardening process. Check [Container Hardening Process](https://hardenedlinux.org/blog/2024-10-13-container-hardening-process/) at hardenedlinux.org for the instructions.
 
 ### Files included
 
